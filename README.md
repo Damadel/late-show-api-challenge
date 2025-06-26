@@ -89,7 +89,7 @@ Copy
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/2david-kariuki/late-show-api-challenge.git
+   git clone https://github.com/Damadel/late-show-api-challenge.git
    cd late-show-api-challenge
 Set Up Virtual Environment
 
